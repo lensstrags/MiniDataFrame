@@ -1,0 +1,21 @@
+id,name,age,role,city,state,country,dept,level,experience,project,status,salary_band,remote,notes
+EMP001,Alice Johnson,24,Engineer,SanFrancisco,CA,USA,Backend,Mid,3yrs,API,Active,100k+,Yes,Fast learner
+EMP002,Bob Smith,31,Designer,NewYork,NY,USA,Design,Senior,6yrs,UXApp,Active,120k+,Hybrid,Remote friendly
+EMP003,Carol White,27,Analyst,Austin,TX,USA,Data,Mid,4yrs,Dashboards,Active,90k+,Yes,SQL expert
+EMP004,David Brown,29,DevOps,Seattle,WA,USA,Infra,Senior,7yrs,CI_CD,Active,130k+,Yes,Linux heavy
+EMP005,Emma Davis,26,MLEngineer,Boston,MA,USA,AI,Mid,3yrs,Recommender,Active,110k+,Yes,NLP focus
+EMP006,Frank Miller,35,Writer,Chicago,IL,USA,Docs,Senior,10yrs,API_Docs,Active,95k+,No,Clear writer
+EMP007,Grace Lee,22,Intern,LA,CA,USA,Eng,Junior,1yr,Testing,Active,50k+,Hybrid,Learning fast
+EMP008,Henry Wilson,40,Manager,Denver,CO,USA,Eng,Lead,15yrs,Cloud,Active,150k+,Yes,Team lead
+EMP009,Ivy Martinez,28,FullStack,Miami,FL,USA,Web,Mid,5yrs,WebApp,Active,115k+,Yes,UI focused
+EMP010,Jack Taylor,33,Security,Dallas,TX,USA,Sec,Senior,8yrs,Pentest,Active,140k+,Yes,Audit expert
+EMP011,Olivia Stone,30,DataSci,SanDiego,CA,USA,AI,Mid,6yrs,PredModel,Active,125k+,Yes,ML pipelines
+EMP012,Liam Harris,25,Backend,Portland,OR,USA,API,Mid,3yrs,Microsvc,Active,105k+,Yes,C++ Go dev
+EMP013,Sophia Lee,29,UXResearch,SanJose,CA,USA,UX,Senior,7yrs,UserStudy,Active,118k+,Hybrid,User focused
+EMP014,Noah Clark,32,CloudArch,LasVegas,NV,USA,Cloud,Senior,9yrs,MultiCloud,Active,145k+,Yes,Scalable sys
+EMP015,Mia Turner,27,QAEngineer,Houston,TX,USA,QA,Mid,4yrs,Testing,Active,98k+,No,Automation
+EMP016,Ethan Scott,34,Engineer,Phoenix,AZ,USA,Backend,Senior,10yrs,APIs,Active,135k+,Yes,High perf
+EMP017,Ava Green,26,Designer,SanDiego,CA,USA,Design,Mid,3yrs,MobileUI,Active,112k+,Hybrid,UI clean
+EMP018,James King,38,Architect,NYC,NY,USA,Systems,Lead,12yrs,Infra,Active,160k+,Yes,System design
+EMP019,Isabella Young,24,Analyst,Boston,MA,USA,Data,Junior,2yrs,Reports,Active,85k+,Yes,Detail focused
+EMP020,Lucas Hall,31,Engineer,Chicago,IL,USA,Backend,Senior,8yrs,Services,Active,128k+,No,Stable systems
