@@ -1,22 +1,12 @@
 #include <iostream>
-
-#include "csvReader.h"
+#include "CsvReader.h"
 
 int main() {
-    const std::string FILE_PATH = "C:\\Users\\noc-user.SYSTEM\\Desktop\\csv-reader\\data\\sample.csv";
-    CsvReader df(FILE_PATH);
+    CsvReader df("data/sample.csv");
 
-    std::cout << "DataFrame truncated: " << std::endl;
     df.PrintDataFrame();
-    std::cout << "\n";
-
-    std::cout << "Head truncated: " << std::endl;
-    df.PrintHead();
-    std::cout << "\n";
-
-    std::cout << "Tail truncated: " << std::endl;
-    df.PrintTail();
-    std::cout << "\n";
+    df.PrintHead(5);
+    df.PrintTail(5);
 
     return 0;
 }
